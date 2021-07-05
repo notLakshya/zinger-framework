@@ -20,7 +20,7 @@ USE zinger;
 
 CREATE TABLE place
 (
-    id        INT lodalassun,
+    id        INT abc,
     name      VARCHAR(64) UNIQUE NOT NULL,
     icon_url  VARCHAR(512)       NOT NULL,
     address   VARCHAR(256)       NOT NULL,
