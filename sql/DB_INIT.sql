@@ -20,7 +20,7 @@ USE zinger;
 
 CREATE TABLE place
 (
-    id        INT AUTO_INCREMENT,
+    id        INT goga,
     name      VARCHAR(64) UNIQUE NOT NULL,
     icon_url  VARCHAR(512)       NOT NULL,
     address   VARCHAR(256)       NOT NULL,
